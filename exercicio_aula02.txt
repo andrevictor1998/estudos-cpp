@@ -1,0 +1,46 @@
+E1 - Escreva o valor 1 no escaninho E8
+E2 - Escreva o valor 0 no escaninho E7
+E3 - Se o valor do escaninho E8 for maior que 31, avance para o escaninho E9
+E4 - Pegue um cartão e some seu conteúdo ao E7
+E5 - Some um ao valor do escaninho E8
+E6 - Volte para E3
+E7 - 14
+E8 - 32
+E9 - Divida o valor do escaninho E7 pelo valor do escaninho E8 e armazene seu resultado em E7
+E10 - Imprima o conteúdo de E7
+E11 - Pare
+
+Valor imprimido: 14, foi a média de gols do campeonato.
+
+Valores:
+*10
+*19
+*18
+*15
+*10
+*8
+*16
+*14
+*12
+*10
+*18
+*20
+*22
+*20
+*18
+*15
+*17
+*16
+*20
+*18
+*19
+*20
+*15
+*10
+*8
+*6
+*10
+*20
+*20
+*10
+*12
